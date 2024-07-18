@@ -4,7 +4,7 @@ const config: CapacitorConfig = {
   appId: 'org.nostrchat.app',
   appName: 'NostrChat',
   webDir: 'build',
-  backgroundColor: '#343434',
+  backgroundColor: '#000000',
   server: {
     androidScheme: 'https'
   },

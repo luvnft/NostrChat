@@ -3,6 +3,7 @@ import {PaletteMode} from '@mui/material';
 import {Channel, Platform, RelayDict} from 'types';
 
 export const DEFAULT_RELAYS: RelayDict = {
+    'wss://unite.at5d.com': {read: true, write: true},
     'wss://relay1.nostrchat.io': {read: true, write: true},
     'wss://relay2.nostrchat.io': {read: true, write: true},
     'wss://relay.damus.io': {read: true, write: true},

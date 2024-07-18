@@ -2,9 +2,9 @@
 
 <img src="public/logo192.png" width="100">
 
-NostrChat is one of the most decentralized chat apps ever built. 
+Chat is one of the most decentralized chat apps ever built. 
 
-NostrChat is built on Nostr, and therefore doesn't rely on any centralized servers, just Nostr relays. Everyday users of NostrChat can immediately benefit from Nostr’s decentralized network. Power users can choose to further decentralization by running their own NostrChat client or Nostr relay. 
+Chat is built on Nostr, and therefore doesn't rely on any centralized servers, just Nostr relays. Everyday users of Chat can immediately benefit from Nostr’s decentralized network. Power users can choose to further decentralization by running their own Chat client or Nostr relay. 
 
 Our ReadMe is a summary about NostrChat, what it looks like, and how to use it.
 
@@ -24,7 +24,7 @@ From the [Nostrchat.io](https://www.nostrchat.io/) homepage choose one of the fo
 
 ## How to use NostrChat
 
-Once you enter NostrChat you can chat in the global chat, or create your own chat channel where you can invite others.
+Once you enter Chat you can chat in the global chat, or create your own chat channel where you can invite others.
 
 ## How to run NostrChat locally 
 
