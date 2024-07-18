@@ -29,7 +29,7 @@ const LoginPage = (_: RouteComponentProps) => {
                 <Login onDone={onDone}/>
             </Card>
             <Box sx={{mt: '20px', fontSize: '0.8em', display: 'flex', justifyContent: 'center'}}>
-                <Box component="a" href="https://github.com/NostrChat/NostrChat" target="_blank" rel="noreferrer"
+                <Box component="a" href="https://chat.atl5d.com" target="_blank" rel="noreferrer"
                      sx={{display: 'inline-flex', alignItems: 'center', color: theme.palette.text.secondary}}>
                     <Github height={20} style={{marginRight: '4px'}}/> {'Github'}
                 </Box>

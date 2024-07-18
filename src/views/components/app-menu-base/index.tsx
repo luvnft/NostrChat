@@ -62,8 +62,8 @@ const AppMenuBase = (props: { children: React.ReactNode }) => {
                 fontSize: '0.8em',
                 color: theme.palette.text.disabled
             }}>
-                <Box sx={{mr: '20px'}}>{`NostrChat v${pack.version}`}</Box>
-                <Box component="a" href="https://github.com/NostrChat/NostrChat" target="_blank" rel="noreferrer"
+                <Box sx={{mr: '20px'}}>{`ATL5D Chat v${pack.version}`}</Box>
+                <Box component="a" href="https://chat.atl5d.com" target="_blank" rel="noreferrer"
                      sx={{color: theme.palette.text.secondary}}>
                     <Github height={20} style={{marginRight: '4px'}}/>
                 </Box>
