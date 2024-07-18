@@ -65,7 +65,6 @@ const AppMenuBase = (props: { children: React.ReactNode }) => {
                 <Box sx={{mr: '20px'}}>{`ATL5D Chat v${pack.version}`}</Box>
                 <Box component="a" href="https://chat.atl5d.com" target="_blank" rel="noreferrer"
                      sx={{color: theme.palette.text.secondary}}>
-                    <Github height={20} style={{marginRight: '4px'}}/>
                 </Box>
             </Box>
         </Box>

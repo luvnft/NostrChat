@@ -16,12 +16,12 @@ export const ACCEPTABLE_LESS_PAGE_MESSAGES = 5;
 export const SCROLL_DETECT_THRESHOLD = 5;
 
 export const GLOBAL_CHAT: Channel = {
-    id: 'f412192fdc846952c75058e911d37a7392aa7fd2e727330f4344badc92fb8a22',
-    name: 'Global Chat',
-    about: 'Whatever you want it to be, just be nice',
+    id: '5b7e63a862015173d1bde97dc6c34cf6fc693a31247e8415f0d776d61bab0436',
+    name: 'ATL5D.shop',
+    about: 'ATL5D.shop chatter',
     picture: '',
-    creator: 'aea59833635dd0868bc7cf923926e51df936405d8e6a753b78038981c75c4a74',
-    created: 1678198928
+    creator: '83ec591d93ace7270302cd347e90c78da2a9746d026feb8edec477f082ce449e',
+    created: 1721331980
 };
 
 export const PLATFORM = Capacitor.getPlatform() as Platform;
