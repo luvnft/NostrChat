@@ -17,8 +17,8 @@ export const SCROLL_DETECT_THRESHOLD = 5;
 
 export const GLOBAL_CHAT: Channel = {
     id: '5b7e63a862015173d1bde97dc6c34cf6fc693a31247e8415f0d776d61bab0436',
-    name: 'ATL5D.shop',
-    about: 'ATL5D.shop chatter',
+    name: 'WEB5 XO',
+    about: 'WEB5 xo chat',
     picture: '',
     creator: '83ec591d93ace7270302cd347e90c78da2a9746d026feb8edec477f082ce449e',
     created: 1721331980
